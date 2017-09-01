@@ -1,4 +1,4 @@
-![](image1.jpg){width="6.875in" height="0.5951388888888889in"}
+![](image1.jpg)
 
 **<span style="font-variant:small-caps;">Rangeland Data Processing
 Exercise </span>**
@@ -24,9 +24,7 @@ The data you will be using for this exercise will be provided in a .zip
 file at the workshop. **Please unzip this file on your C:\\ drive** for
 the file contents to function correctly.
 
-![](image2.jpg){width="0.45in"
-height="0.45in"}![](img/media/image3.jpg){width="0.45in"
-height="0.44305555555555554in"}
+![](image2.jpg)![](image3.jpg)
 
 Metadata (data about the data) is very important, and fortunately is
 partially generated during the early stages of most mosaic processes
@@ -65,18 +63,16 @@ Add Data
 
 -   Open Pix4D from the desktop icon, or by going to ***Start** -&gt;
     **All Programs** -&gt; **Pix4D** -&gt; **Pix4Dmapper Pro***\
-    ![](img/media/image4.png){width="2.0689796587926508in"
-    height="0.6883147419072616in"}
+    ![](image4.png)
 
 -   Create a new project\
-    ![](img/media/image5.png){width="4.496336395450569in"
-    height="2.565698818897638in"}
+    ![](image5.png)
 
 -   Use the project wizard\
     to select a workspace for\
     your Pix4D project
 
-![](img/media/image2.jpg){width="0.45in" height="0.45in"}
+![](image2.jpg)
 
 -   Follow the prompts (clicking **Next**) to select images for your
     project.
@@ -88,14 +84,12 @@ Add Data
     Select all of the images and drag them over into the Select Images
     window, and click **Next**.\
     \
-    ![](img/media/image6.png){width="5.2295024059492565in"
-    height="2.7817793088363953in"}
+    ![](image6.png)
 
 -   Click the **To File…** option on the pop up window to export the
     drone image geotags to a .csv file. You can use this file later to
     identify the footprint of the flight pattern. Click **OK** and
-    **Next**.![](img/media/image7.png){width="3.8941371391076114in"
-    height="2.5544870953630796in"}
+    **Next**.![](image7.png)
 
 <!-- -->
 
@@ -104,8 +98,7 @@ Add Data
 -   Select **3D Maps** (if you have a fast computer) or **3D Maps –
     Rapid/Low Res** (if you have a medium to slow computer)\
     \
-    ![](img/media/image8.png){width="3.057468285214348in"
-    height="2.0086286089238845in"}
+    ![](image8.png)
 
 -   ***Do Not*** check the Start Processing Now\
     button
@@ -117,8 +110,7 @@ Add Data
 
 -   Under **3. DSM, Orthomosaic and Index** -&gt; **Additional
     Outputs,** check the box for
-    **LAS**![](img/media/image9.png){width="3.99492782152231in"
-    height="3.159663167104112in"}
+    **LAS**![](image9.png)
 
 -   Also check the box under\
     **Raster DTM -&gt; GeoTIFF**
@@ -130,13 +122,11 @@ Add Data
     **1.** **Initial Processing** button checked (not steps 2 and 3),
     and click **Start**\
     \
-    ![](img/media/image10.png){width="3.502318460192476in"
-    height="1.0434984689413824in"}
+    ![](image10.png)
 
 -   When the Initial Processing is done, click the rayCloud option (on
     the left) and click the trackball navigation mode on the top of the
-    screen![](img/media/image11.png){width="3.550488845144357in"
-    height="3.2604166666666665in"}
+    screen![](image11.png)
 
 -   Unclick the Cameras and Rays boxes
 
@@ -148,8 +138,7 @@ Add Data
 -   Click on the Ground Control Point (GCP)/Manual Tie Points (MTP)
     Manager button at the top left of the screen\
     \
-    ![](img/media/image12.png){width="2.7375in"
-    height="1.0430555555555556in"}
+    ![](image12.png)
 
 -   Click **Import GCPs**
 
@@ -170,16 +159,13 @@ Add Data
 -   If the Selection doesn’t pop up on the right, click the box on the
     top right side to expand the selection properties window.\
     \
-    ![](img/media/image13.png){width="4.78437554680665in"
-    height="3.5988035870516186in"}
+    ![](image13.png)
 
 -   Zoom in and out on the Image window and try to spot an unusually
     white dot in the area of the small blue circle. When you find this
     white dot (being the actual GCP marker in the field) click the
     center of the dot and a yellow circle should appear around the GCP.\
-    ![](img/media/image14.png){width="1.4236111111111112in"
-    height="3.453472222222222in"}![](img/media/image15.png){width="1.4537839020122485in"
-    height="1.4427701224846894in"}
+    ![](image14.png)![](image15.png)
 
 -   Scroll down through the Images using the slider bar to the right to
     select the center of 3 more white GCP dots. When you have selected 4
@@ -192,8 +178,7 @@ Add Data
     window, and delete these GCPs, which do not have any tie points to
     the images.
 
-![](img/media/image3.jpg){width="0.45in"
-height="0.44305555555555554in"}The next steps for processing will take
+![](image3.jpg)The next steps for processing will take
 too long for most laptop computers, therefore this processing has
 already been done for you. However if you were to complete this
 processing on your own, you would:
@@ -201,8 +186,7 @@ processing on your own, you would:
 -   Click the **Reoptimize** button at the top of the window and click
     **OK** for the warning\
     \
-    ![](img/media/image16.png){width="2.80625in"
-    height="0.9611111111111111in"}
+    ![](image16.png)
 
 -   Click Dismiss when it is done.
 
@@ -232,14 +216,12 @@ Add Data
     project an appropriate name
 
 -   Click the ***New Map*** button
-    ![](img/media/image17.png){width="0.2604155730533683in"
-    height="0.26745406824146983in"}
+    ![](image17.png)
 
 <!-- -->
 
 -   Click the ***Add Data*** button
-    ![](img/media/image18.png){width="0.2482633420822397in"
-    height="0.22916666666666666in"} , go to the following directory in
+    ![](image18.png) , go to the following directory in
     the DroneCamp folder to add the Orthomosaic and elevation data that
     was created through the last steps.
 
@@ -258,8 +240,7 @@ part of a larger project
 > Pix4D\_1252\_1340\_400ft\_80p\_complete\\3\_dsm\_ortho\\2\_mosaic\\\
 > pix4d\_1252\_1340\_400ft\_80p\_transparent\_mosaic\_group1\
 > \
-> ![](img/media/image19.png){width="3.215625546806649in"
-> height="2.50215769903762in"}
+> ![](image19.png)
 >
 > and the corresponding surface model (**DSM**) at:
 >
@@ -272,27 +253,22 @@ part of a larger project
 **Explore the Main Menu drop down options.\
 **
 
-![](img/media/image20.png){width="5.931163604549432in"
-height="1.4500109361329834in"}
+![](image20.png)
 
-![](img/media/image21.jpg){width="0.47708333333333336in"
-height="0.47708333333333336in"}
+![](image21.jpg)
 
 -   Click the Analysis tab and the Tools icon
-    ![](img/media/image22.png){width="0.2686001749781277in"
-    height="0.19791557305336832in"}, and type “***Extract by Mask***” in
+    ![](image22.png), and type “***Extract by Mask***” in
     the Geoprocessing search bar. By the time\
     you get to “Extract by” the *Extract by Mask* tool should\
     appear in your Search Reults window.
 
 -   Right click and choose “*Add To Analysis Gallery”*.
 
-![](img/media/image23.png){width="2.0505675853018372in"
-height="4.177082239720035in"}
+![](image23.png)
 
 -   You will have the opportunity to use the ***Extract by Mask***
-    ![](img/media/image24.png){width="0.20836286089238845in"
-    height="0.19191272965879266in"} **\
+    ![](image24.png) **\
     **tool in one of the next steps of the exercise.
 
 > The previous method for customizing your toolbars can save you a lot
@@ -305,11 +281,10 @@ height="4.177082239720035in"}
 > spatial distortion, which can decrease the quality of later map
 > products. For this reason, you may wish to remove the distorted
 > portions of the mosaic and DSM
-> products.![](img/media/image2.jpg){width="0.45in" height="0.45in"}
+> products.![](image2.jpg)
 
 -   Again, click the **Add** button
-    ![](img/media/image18.png){width="0.2482633420822397in"
-    height="0.22916666666666666in"} , and add the Flight Geotags into
+    ![](image18.png) , and add the Flight Geotags into
     your ArcGIS Pro session from:\
     \
     C:\\DroneCamp\\Drone\_Projects\\Rangeland\\Rustici\\GIS\\Vector\\Geotags\\GeoTags1
@@ -330,22 +305,19 @@ height="4.177082239720035in"}
 ***Create a Shapefile from Scratch ***
 
 -   Click the Tools
-    ![](img/media/image22.png){width="0.24032699037620298in"
-    height="0.177082239720035in"} icon and type “***Create Feature
+    ![](image22.png) icon and type “***Create Feature
     Class***” into the Geoprocessing search bar. Under “*Feature Class
     Location*” navigate to your DroneCamp folder and select the
     ***Boundary*** folder.
 
--   ![](img/media/image25.png){width="1.99375in"
-    height="3.8229166666666665in"}Name the file ***Study\_Outline*** and
+-   ![](image25.png)Name the file ***Study\_Outline*** and
     select\
     **Polygon** as the Geometry Type.
 
 > Designate a coordinate system for the shapefile:
 
 -   Click ***Select coordinate system***
-    ![](img/media/image26.png){width="0.20836286089238845in"
-    height="0.2396172353455818in"}
+    ![](image26.png)
 
 -   Navigate through the folders: Projected\
     Coordinate Systems -&gt; UTM -&gt;WGS 1984 -&gt; Northern Hemisphere
@@ -354,29 +326,24 @@ height="4.177082239720035in"}
 
 -   Click **OK** and **Run**
 
-![](img/media/image27.png){width="2.3125in"
-height="1.7881944444444444in"}
+![](image27.png)
 
 You have now created a shapefile, however this file does not yet have
 any spatial features within it.
 
 -   Click the Edit tab, then click the Create icon
-    ![](img/media/image28.png){width="0.16668088363954506in"
-    height="0.17501531058617673in"} to begin creating the shape of the
+    ![](image28.png) to begin creating the shape of the
     shapefile (see image on the next page).
 
 -   Click ***Study\_Outline*** in the\
     *Create Features* window, and\
     select ***Polygon***.
 
-> ![](img/media/image29.png){width="6.971770559930008in"
-> height="0.8333333333333334in"}
+> ![](image29.png)
 
-![](img/media/image30.png){width="1.3645833333333333in"
-height="2.4270833333333335in"}
+![](image30.png)
 
-> ![](img/media/image31.png){width="3.9479166666666665in"
-> height="2.1902777777777778in"}
+> ![](image31.png)
 
 -   Click around the edge of the\
     **GeoTags1**, so that it only covers the footprint under the cameras
@@ -385,18 +352,15 @@ height="2.4270833333333335in"}
 
 > You have now created a shape file, which can be used to clip or
 > extract data from other files, or be used to compute zonal
-> statistics.![](img/media/image32.jpg){width="0.38125in"
-> height="0.38125in"}
+> statistics.![](image32.jpg)
 
 ***Clip Raster Images\
 ***
 
 -   Click on the **Analysis** tab and then the **Tools** icon
-    ![](img/media/image22.png){width="0.2604166666666667in"
-    height="0.1918853893263342in"}.
+    ![](image22.png).
 
--   ![](img/media/image24.png){width="0.20833333333333334in"
-    height="0.1918853893263342in"}Type “**Extract by Mask**” in the
+-   ![](image24.png)Type “**Extract by Mask**” in the
     Geoprocessing window, and click tool. Alternatively, you can simply
     click the tool icon that you previously added to your tool gallery.
 
@@ -412,16 +376,14 @@ height="2.4270833333333335in"}
 > time to complete this function will take several minutes and it is not
 > essential right now. However, because this is one of the most common
 > geoprocessing tools needed for drone data, these directions are
-> included.![](img/media/image3.jpg){width="0.45in"
-> height="0.44305555555555554in"}
+> included.![](image3.jpg)
 >
 > Note – Sometimes the *Extract by Mask* tool doesn’t work. If so, there
 > is an alternative method to do the same thing. Simply use the
 > *ArcToolBox -&gt; Data Management Tools -&gt; Raster -&gt; Raster
 > Processing -&gt; Clip* function instead. Then use the *Study\_Area* as
 > the *Output Extent,* and be sure to click the *Use Input Feature for
-> Clipping Geometry* box. ![](img/media/image32.jpg){width="0.38125in"
-> height="0.38125in"}
+> Clipping Geometry* box. ![](image32.jpg)
 
 ***Raster Math and Topographic Modeling ***
 
@@ -448,14 +410,13 @@ proceed.
     select **Appearance** under the “Raster Layer” section of the
     toolbar -&gt; adjust the transparency slider to 50%.
 
-![](img/media/image33.png){width="7.1in" height="1.0375in"}
+![](image33.png)
 
 -   Place this on top of the DSM in the TOC, for design effect.
 
-![](img/media/image3.jpg){width="0.45in" height="0.44305555555555554in"}
+![](image3.jpg)
 
-![](img/media/image34.png){width="2.5694444444444446in"
-height="1.1979166666666667in"}**Bonus Exercise - Stream Delineation\
+![](image34.png)**Bonus Exercise - Stream Delineation\
 \
 **(for more advanced users)
 
@@ -489,7 +450,7 @@ height="1.1979166666666667in"}**Bonus Exercise - Stream Delineation\
 -   In a chain search for and connect **Flow Direction** -&gt; **Flow
     Accumulation** -&gt; and **Set Null**
 
-![](img/media/image32.jpg){width="0.38125in" height="0.38125in"}
+![](image32.jpg)
 
 A diagram of this model can be found on the next page
 
@@ -499,13 +460,11 @@ A diagram of this model can be found on the next page
     again) -&gt; then repeat this for each of the other green bubbles.
 
 -   Run the model by clicking the Run arrow
-    ![arow.png](img/media/image35.png){width="0.14583333333333334in"
-    height="0.20833333333333334in"} on the toolbar. This step was taken
+    ![arow.png](image35.png) on the toolbar. This step was taken
     to prepare the model for the final processing steps.**\
     **
 
--   ![](img/media/image36.png){width="2.8506944444444446in"
-    height="2.7527777777777778in"}Now add **Stream to Feature** to the
+-   ![](image36.png)Now add **Stream to Feature** to the
     end of the model tools.
 
 -   Double click on **Set Null**-&gt; change the SQL expression to
@@ -515,10 +474,8 @@ A diagram of this model can be found on the next page
 
 <!-- -->
 
--   ![](img/media/image37.png){width="7.1in"
-    height="3.6319444444444446in"}Click the Run Button
-    ![arow.png](img/media/image35.png){width="0.14583333333333334in"
-    height="0.20833333333333334in"}again and when it finishes running,
+-   ![](image37.png)Click the Run Button
+    ![arow.png]image35.png)again and when it finishes running,
     load the new stream network file into your ArcGIS session.
 
 **Composite Bands**
@@ -544,18 +501,15 @@ A diagram of this model can be found on the next page
     the **Hillshade**, **Slope**, Aspect any other layers from the
     larger dataset as Input Rasters
 
-![](img/media/image38.png){width="2.058333333333333in"
-height="0.8229166666666666in"}If you suspect that you might ever want to
+![](image38.png)If you suspect that you might ever want to
 conduct further analysis using your DSM or DTM files again, there is an
 extra step that you need to take here.
-![](img/media/image3.jpg){width="0.45in" height="0.44305555555555554in"}
+![](image3.jpg)
 
 -   Click the *Environments…* tab at the top of the *Composite Bands*
     window, at the bottom of the list under *Resample* select BILINEAR.
 
-![](img/media/image39.png){width="3.2777777777777777in"
-height="0.6145833333333334in"}![](img/media/image32.jpg){width="0.38125in"
-height="0.38125in"}
+![](image39.png)![](image32.jpg)
 
 > Before you run the Band Composite tool, you may want to write down the
 > order of your layers, or take a screen capture of the file order for
@@ -581,7 +535,7 @@ alignment in the output layer stack.
 > strange color composite of the three input layers. Right click the
 > file in the *Contents pane* -&gt; select *Symbology* -&gt; Stretched→
 > Pick a color → Apply Stretch Type → Percent
-> Clip![](img/media/image32.jpg){width="0.38125in" height="0.38125in"}
+> Clip![](image32.jpg)
 
 ***Classification ***
 
@@ -599,11 +553,9 @@ tools.
     stressed vegetation/bare earth**
 
 -   Within the ***Training Samples Manager*** window, select Create New
-    Schema ![](img/media/image40.png){width="0.2500349956255468in"
-    height="0.2500349956255468in"}
+    Schema ![](image40.png)
 
--   ![](img/media/image41.png){width="2.9895833333333335in"
-    height="2.4479166666666665in"}Right click the “New Schema” heading
+-   ![](image41.png)Right click the “New Schema” heading
     and select Add New Class
 
 -   Give your new class a name (Yellow Star Thistle) and a value (1)
@@ -612,20 +564,17 @@ tools.
 > collected in the field using a GPS, however we will conduct “heads up
 > digitization” (i.e. traced outlines of the land cover sample sites).
 > For this just use your best judgement as to the color and brightness
-> of the RGB imagery.![](img/media/image32.jpg){width="0.38125in"
-> height="0.38125in"}
+> of the RGB imagery.![](image32.jpg)
 
 -   Select your new class in the ***Training Samples Manager*** and
     click the ***Polygon*** icon
-    ![](img/media/image42.png){width="0.19794400699912512in"
-    height="0.1875262467191601in"}.
+    ![](image42.png).
 
 -   Begin clicking on the map window to select/outline three **bright
     vegetation** regions of interest (ROI), double click when you are
     ready to finish the sketch.
 
--   ![](img/media/image43.png){width="2.8229166666666665in"
-    height="3.529166666666667in"}Repeat the above steps to next collect
+-   ![](image43.png)Repeat the above steps to next collect
     3 ROIs for each of the following types of land cover: **dark
     vegetation, and stressed vegetation/bare earth**.
 
@@ -641,8 +590,7 @@ tools.
     ***Classify*** and select **Maximum Likelihood Classification** as
     your classification method.
 
--   ![](img/media/image44.png){width="1.9791666666666667in"
-    height="2.4791666666666665in"}Track down and select the ***Training
+-   ![](image44.png)Track down and select the ***Training
     Samples***\
     file that you just created
 
@@ -667,8 +615,7 @@ first, and you have to move them to where you want. Look carefully when
 you’ve added an element – sometimes it’s hard to see them in front of
 your map!
 
-![](img/media/image45.png){width="2.7529265091863517in"
-height="3.4140627734033244in"}
+![](image45.png)
 
 The legend is automatically linked to the layer names and displayed
 symbology. Sometimes you will wish to change the layout of the legend.
@@ -677,22 +624,19 @@ symbology. Sometimes you will wish to change the layout of the legend.
     legend until you can access the specific text or elements that you
     want to change (by double clicking them).
 
-![](img/media/image46.png){width="1.0208333333333333in"
-height="1.9400820209973753in"}
+![](image46.png)
 
-![](img/media/image47.png){width="1.04in" height="0.8360793963254594in"}
+![](image47.png)
 
 ***Export your map ***
 
--   ![](img/media/image48.png){width="2.3715277777777777in"
-    height="2.390972222222222in"}Go to the ***Share* tab** *→ **Export
+-   ![](image48.png)Go to the ***Share* tab** *→ **Export
     Layout**...* and change the “***Save as type***” to **PDF**. Use a
     unique name, with your name in the name.
 
 -   Change the output resolution. 300dpi is a high quality output
     resolution for printing (below).
 
-![](img/media/image49.jpg){width="2.046823053368329in"
-height="1.5332556867891514in"}
+![](image49.jpg)
 
 > Thank you for attending the first IGIS DroneCamp!
