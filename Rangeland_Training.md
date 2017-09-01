@@ -1,4 +1,4 @@
-![](img/media/image1.jpg){width="6.875in" height="0.5951388888888889in"}
+![](image1.jpg){width="6.875in" height="0.5951388888888889in"}
 
 **<span style="font-variant:small-caps;">Rangeland Data Processing
 Exercise </span>**
@@ -24,7 +24,7 @@ The data you will be using for this exercise will be provided in a .zip
 file at the workshop. **Please unzip this file on your C:\\ drive** for
 the file contents to function correctly.
 
-![](img/media/image2.jpg){width="0.45in"
+![](image2.jpg){width="0.45in"
 height="0.45in"}![](img/media/image3.jpg){width="0.45in"
 height="0.44305555555555554in"}
 
