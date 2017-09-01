@@ -71,7 +71,7 @@ button
 
 * On the bottom portion of your screen,** u****ncheck ‘**2. Point Cloud and Mesh and 3. DSM, Orthomosaic and Index’, leaving **only** the **1.** **Initial Processing** button checked (not steps 2 and 3), and click **Start**
 
-![image alt text](image_0.png)
+![image alt text](blob/master/image_0.png)
 
 * When the Initial Processing is done, click the rayCloud option (on the left) and click the trackball navigation mode on the top of the screen
 
