@@ -432,9 +432,7 @@ proceed.
 > the course of this session:\
 > \
 > C:\\DroneCamp\\Drone\_Projects\\Rangeland\\Rustici\\Data\\20170425\_X5\\\
-> Pix4D\_Flight\_2\_1311\_1323\_400ft\_80p![](img/media/image32.jpg){width="0.38125in"
-> height="0.38125in"}
-
+> Pix4D\_Flight\_2\_1311\_1323\_400ft\_80p<img align="right" src="image32.jpg">
 -   Click and drag the DSM or DTM from the TOC into the Model Builder
     window at the top left.
 
@@ -460,7 +458,7 @@ A diagram of this model can be found on the next page
     again) -&gt; then repeat this for each of the other green bubbles.
 
 -   Run the model by clicking the Run arrow
-    ![arow.png](image35.png) on the toolbar. This step was taken
+    ![](image35.png) on the toolbar. This step was taken
     to prepare the model for the final processing steps.**\
     **
 
