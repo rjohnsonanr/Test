@@ -588,7 +588,7 @@ tools.
     ***Classify*** and select **Maximum Likelihood Classification** as
     your classification method.
 
--   ![](image44.png)Track down and select the ***Training
+-   !<img align="right" src="image44.png">Track down and select the ***Training
     Samples***\
     file that you just created
 
