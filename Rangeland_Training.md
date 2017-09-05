@@ -462,7 +462,7 @@ A diagram of this model can be found on the next page
     to prepare the model for the final processing steps.**\
     **
 
--   ![](image36.png)Now add **Stream to Feature** to the
+-   <img align="right" src="image36.png">Now add **Stream to Feature** to the
     end of the model tools.
 
 -   Double click on **Set Null**-&gt; change the SQL expression to
@@ -473,7 +473,7 @@ A diagram of this model can be found on the next page
 <!-- -->
 
 -   ![](image37.png)Click the Run Button
-    ![arow.png]image35.png)again and when it finishes running,
+    ![]image35.png)again and when it finishes running,
     load the new stream network file into your ArcGIS session.
 
 **Composite Bands**
@@ -553,7 +553,7 @@ tools.
 -   Within the ***Training Samples Manager*** window, select Create New
     Schema ![](image40.png)
 
--   ![](image41.png)Right click the “New Schema” heading
+-   <img align="right" src="image41.png">Right click the “New Schema” heading
     and select Add New Class
 
 -   Give your new class a name (Yellow Star Thistle) and a value (1)
