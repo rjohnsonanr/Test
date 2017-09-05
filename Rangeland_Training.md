@@ -626,6 +626,14 @@ symbology. Sometimes you will wish to change the layout of the legend.
 
 <img align="right" src="image47.png">
 
+
+
+
+
+
+
+
+
 ***Export your map ***
 
 -   <img align="right" src="image48.png">Go to the ***Share* tab** *→ **Export
