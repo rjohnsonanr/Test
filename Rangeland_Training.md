@@ -622,9 +622,9 @@ symbology. Sometimes you will wish to change the layout of the legend.
     legend until you can access the specific text or elements that you
     want to change (by double clicking them).
 
-!<img align="right" src="image46.png">
+<img align="right" src="image46.png">
 
-![](image47.png)
+<img align="right" src="image47.png">
 
 ***Export your map ***
 
