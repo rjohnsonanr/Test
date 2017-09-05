@@ -499,7 +499,7 @@ A diagram of this model can be found on the next page
     the **Hillshade**, **Slope**, Aspect any other layers from the
     larger dataset as Input Rasters
 
-![](image38.png)If you suspect that you might ever want to
+<img align="right" src="image38.png">If you suspect that you might ever want to
 conduct further analysis using your DSM or DTM files again, there is an
 extra step that you need to take here.
 ![](image3.jpg)
