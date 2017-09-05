@@ -240,7 +240,7 @@ part of a larger project
 > Pix4D\_1252\_1340\_400ft\_80p\_complete\\3\_dsm\_ortho\\2\_mosaic\\\
 > pix4d\_1252\_1340\_400ft\_80p\_transparent\_mosaic\_group1\
 > \
-> ![](image19.png)
+> <img align="right" src="image19.png">
 >
 > and the corresponding surface model (**DSM**) at:
 >
@@ -310,7 +310,7 @@ part of a larger project
     Location*” navigate to your DroneCamp folder and select the
     ***Boundary*** folder.
 
--   ![](image25.png)Name the file ***Study\_Outline*** and
+-   <img align="right" src="image25.png">Name the file ***Study\_Outline*** and
     select\
     **Polygon** as the Geometry Type.
 
