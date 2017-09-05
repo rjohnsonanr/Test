@@ -613,7 +613,7 @@ first, and you have to move them to where you want. Look carefully when
 you’ve added an element – sometimes it’s hard to see them in front of
 your map!
 
-![](image45.png)
+<img align="right" src="image45.png">
 
 The legend is automatically linked to the layer names and displayed
 symbology. Sometimes you will wish to change the layout of the legend.
@@ -622,7 +622,7 @@ symbology. Sometimes you will wish to change the layout of the legend.
     legend until you can access the specific text or elements that you
     want to change (by double clicking them).
 
-![](image46.png)
+!<img align="right" src="image46.png">
 
 ![](image47.png)
 
