@@ -265,7 +265,7 @@ part of a larger project
 
 -   Right click and choose “*Add To Analysis Gallery”*.
 
-![](image23.png)
+<img align="right" src="image23.png">
 
 -   You will have the opportunity to use the ***Extract by Mask***
     ![](image24.png) **\
