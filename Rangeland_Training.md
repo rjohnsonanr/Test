@@ -533,7 +533,7 @@ alignment in the output layer stack.
 > strange color composite of the three input layers. Right click the
 > file in the *Contents pane* -&gt; select *Symbology* -&gt; Stretched→
 > Pick a color → Apply Stretch Type → Percent
-> Clip![](image32.jpg)
+> Clip<img align="left" src="image32.png">
 
 ***Classification ***
 
