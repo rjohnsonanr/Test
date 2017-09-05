@@ -416,14 +416,14 @@ proceed.
 
 ![](image3.jpg)
 
-![](image34.png)**Bonus Exercise - Stream Delineation\
+**Bonus Exercise - Stream Delineation\
 \
 **(for more advanced users)
 
 > **New GIS users, please skip to after the boxed in text areas**
 
 -   Click the Model Builder tool at the top of the screen under
-    **Analysis**.
+    **Analysis**.<img align="right" src="image34.png">
 
 > Unless you have an extremely fast computer for this exercise you will
 > probably want to use the smaller dataset that you processed in the
