@@ -572,7 +572,7 @@ tools.
     vegetation** regions of interest (ROI), double click when you are
     ready to finish the sketch.
 
--   ![](image43.png)Repeat the above steps to next collect
+-   <img align="right" src="image43.png">Repeat the above steps to next collect
     3 ROIs for each of the following types of land cover: **dark
     vegetation, and stressed vegetation/bare earth**.
 
@@ -628,7 +628,7 @@ symbology. Sometimes you will wish to change the layout of the legend.
 
 ***Export your map ***
 
--   ![](image48.png)Go to the ***Share* tab** *→ **Export
+-   <img align="right" src="image48.png">Go to the ***Share* tab** *→ **Export
     Layout**...* and change the “***Save as type***” to **PDF**. Use a
     unique name, with your name in the name.
 
