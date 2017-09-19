@@ -462,11 +462,11 @@ A diagram of this model can be found on the next page
     to prepare the model for the final processing steps.**\
     **
 
--   <img align="right" src="image36.png">Now add **Stream to Feature** to the
+-   <img align="right" src="Set_Null.png">Now add **Stream to Feature** to the
     end of the model tools.
 
 -   Double click on **Set Null**-&gt; change the SQL expression to
-    **VALUE &gt; 25000**
+    **VALUE &lt; 25000**
 
 -   Set the constant value to **1**
 
